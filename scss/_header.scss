@@ -220,11 +220,7 @@
     background-color: transparent;
     @include transition-duration(500ms);
     height: 70px;
-    background-color: rgba(0, 0, 0, 0.2);
-
-    &.sticky {
-        background-color: $dark;
-    }
+    background-color: transparent;
 }
 
 .classy-navbar-toggler .navbarToggler span {
