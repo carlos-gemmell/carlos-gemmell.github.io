@@ -1647,3 +1647,30 @@ input:required {
     border-radius: 10px; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.box_font {
+  /* font-family:'Courier New', Courier, monospace; */
+  font-size:32px;
+  /* font-style:italic; */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align:center;
+  width:80%;
+  height: 40%;
+}
+
+.no_pad {
+  padding: 0px;
+}
+
+.small_links {
+  /* font-family:'Courier New', Courier, monospace; */
+  font-size:24px;
+}
+
+a:hover {
+  color: rgb(134, 103, 93);
+}
