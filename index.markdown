@@ -10,7 +10,7 @@ description: Always keen to chat
 
 I'm a **Ph.D. student** at the University of Glasgow supervised by <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>.
 
-I **led the winning team** for the [__2021-2022 Amazon Alexa Prize TasKBot challenge__](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge){:target="_blank"}.
+I **led the winning team** for the [__2021-2022 Amazon Alexa Prize TaskBot challenge__](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge){:target="_blank"}.
 
 I explore how language models can delegate computation and knowledge by using tools.
 Similar to how we use calculators to do math. 
