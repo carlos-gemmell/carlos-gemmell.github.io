@@ -12,8 +12,7 @@ I'm a **Ph.D. student** at the University of Glasgow supervised by <a target="_b
 
 I **led the winning team** for the [__2021-2022 Amazon Alexa Prize TaskBot challenge__](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge){:target="_blank"}.
 
-I explore how language models can delegate computation and knowledge by using tools.
-Similar to how we use calculators to do math. 
+I explore how language models can decouple memorisation from reasoning. Specifically how they can delegate computation and knowledge by using tools. Similar to how we use calculators to do math. 
 
 I apply my research in the context of __Question Answering__ and __Conversational Systems__ to make language model reasoning more capable and interpretable.
 
