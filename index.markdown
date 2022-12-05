@@ -19,6 +19,8 @@ I apply my research in the context of __Question Answering__ and __Conversationa
 ## <span>News </span>
 
 __2022__
+* __December__ Invited lecture at the Yandex School of Data Analysis.
+* __November__ Invited talks at [UCL NLP group](https://twitter.com/wangxieric/status/1590379858001297409){:target="_blank"} and [JP Morgan](https://twitter.com/petrS42/status/1597623042045116418){:target="_blank"} on GRILLBot research. [Slides](/static/files/GRILLBot_Presentation.pdf){:target="_blank"}
 * __August__ New paper: [GRILLBot: An Assistant for Real-World Tasks](https://2022.sigdial.org/accepted-papers-list/){:target="_blank"} is accepted at __SigDial 2022__.
 * __July__ Workshop talk on [Question Answering in GRILLBot with Large Language Models](https://twitter.com/scai_workshop/status/1547926185513889793){:target="_blank"} at __SCAI 2022__.
 * __June__ Team I led [__wins the Amazon Alexa Prize TaskBot challenge__](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge){:target="_blank"}!:fire: See our [GRILLBot](https://assets.amazon.science/0c/2c/f214256a43bba8d97ade42c56be0/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks.pdf){:target="_blank"} paper.
