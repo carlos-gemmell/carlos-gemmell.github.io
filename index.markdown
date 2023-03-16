@@ -19,7 +19,7 @@ I apply my research in the context of __Question Answering__ and __Conversationa
 ## <span>News </span>
 
 __2023__
-* __March__ Invited (upcoming) talk at the [__University of Cambridge Language Technology Lab__](http://talks.cam.ac.uk/talk/index/198475){:target="_blank"}
+* __March__ Invited talk at the [__University of Cambridge Language Technology Lab__](http://talks.cam.ac.uk/talk/index/198475){:target="_blank"}
 * __February__ Guest lecture at [Conversational User Interfaces](https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5094){:target="_blank"} at the University of Glasgow.
 
 __2022__
