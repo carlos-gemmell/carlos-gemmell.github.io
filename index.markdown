@@ -8,7 +8,9 @@ description: Always keen to chat
 ---
 ![carlos_gemmell](static/images/carlos_small.jpeg){: style="float: right; margin: 0px 20px; width: 180px;" name="carlos"}
 
-I’m the Co-founder and CTO at Malted AI, distilling LLM solutions for enterprise. Previously at <a target="_blank" href="https://ai.meta.com/research/">__Meta AI Research__</a>, doing synthetic data for LLMs alongside the Llama 2 and CodeLlama teams. I’m finishing a Ph.D. at the University of Glasgow, on tool reasoning for language models under <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>.
+Hi I'm Carlos!
+
+Co-founded Malted AI, distilling LLM solutions for enterprise. Previously at <a target="_blank" href="https://ai.meta.com/research/">__Meta AI Research__</a>, doing synthetic data for LLMs alongside the Llama 2 and CodeLlama teams. NLP Ph.D. at the University of Glasgow, on tool reasoning for LLMs under <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>.
 
 <!-- I'm a **Ph.D. student** at the University of Glasgow supervised by <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>. Incoming intern at <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">__Meta AI Research__</a> with <a target="_blank" href="http://timoschick.com">Timo Schick</a> and <a target="_blank" href="https://mlomeli1.github.io">Maria Lomeli</a>. -->
 
