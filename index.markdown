@@ -8,7 +8,9 @@ description: Always keen to chat
 ---
 ![carlos_gemmell](static/images/carlos_small.jpeg){: style="float: right; margin: 0px 20px; width: 180px;" name="carlos"}
 
-I'm a **Ph.D. student** at the University of Glasgow supervised by <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>. Incoming intern at <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">__Meta AI Research__</a> with <a target="_blank" href="http://timoschick.com">Timo Schick</a> and <a target="_blank" href="https://mlomeli1.github.io">Maria Lomeli</a>.
+I’m the Co-founder and CTO at Malted AI, distilling LLM solutions for enterprise. Previously at <a target="_blank" href="https://ai.meta.com/research/">__Meta AI Research__</a>, doing synthetic data for LLMs alongside the Llama 2 and CodeLlama teams. I’m finishing a Ph.D. at the University of Glasgow, on tool reasoning for language models under <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>.
+
+<!-- I'm a **Ph.D. student** at the University of Glasgow supervised by <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">Jeff Dalton</a>. Incoming intern at <a target="_blank" href="https://www.gla.ac.uk/schools/computing/staff/jeffdalton/">__Meta AI Research__</a> with <a target="_blank" href="http://timoschick.com">Timo Schick</a> and <a target="_blank" href="https://mlomeli1.github.io">Maria Lomeli</a>. -->
 
 I **led the winning team** for the [__2021-2022 Amazon Alexa Prize TaskBot challenge__](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge){:target="_blank"}.
 
@@ -41,5 +43,3 @@ __2021__
 __2020__
 
 * __June__ New paper: [Relevance Transformer: Generating Code Snippets with Relevance Feedback](https://dl.acm.org/doi/pdf/10.1145/3397271.3401215?casa_token=o8_jkcF4Vs0AAAAA:8Q_TG_H7fhbIE5mML8mzy9puYy-GJJJuPZTGxa-3pzXC9uG4iJBzpml97hWTo_2KE8bHeaxwQvZUTis) is accepted at __SIGIR 2020__.
-
-* Test
